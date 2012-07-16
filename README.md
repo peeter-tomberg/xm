@@ -1,1 +1,1 @@
-A small module to simplify postMessages between iframes. 
+A small library to handle cross-domain iframe communication
